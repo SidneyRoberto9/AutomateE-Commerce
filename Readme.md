@@ -28,6 +28,7 @@ Project is created with:
 * ChromeDriver version: 94.0.4606.41
 * GeckodDiver version: 0.29.1
 * JUnit version: 4.12
+* Eclipse
 	
 ## Fonte
  <a href="https://www.techlistic.com/2020/06/automate-ecommerce-website.html">AutomateE-Commerce</a>
