@@ -7,9 +7,8 @@
 
 ## Informações Gerais
 Projeto feito Com base no Selenium e java para o Treino, Para a Execução dos testes Compile a SuitesTest.
-Para qualquer mudar o navegador modifique a variavel BROWSER, escolhendo entre Chrome e Firefox, para a modificação do tipo de execução
-mude na variavel TIPO_EXECUCAO variando entre local e grid(arquivo grid não incluso), todas essas funções estão localizandas em
-Propriedades.class.
+Para qualquer mudar o navegador modifique a variavel BROWSER, escolhendo entre Chrome e Firefox, todas essas
+funções estão localizandas em Propriedades.class.
 
 ## Testes Executados
 * Caso de teste 1 - Automatizar o processo de registro do usuário.
